@@ -1,0 +1,15 @@
+h1{
+    color:lightcoral;
+}
+body{
+    background-color: turquoise;
+}
+div{
+    background-color: white;
+}
+.body_backgorund 
+{
+    background-image:url(th.jpg);
+    background-position:center;
+    background-size:cover;
+}

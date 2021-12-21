@@ -1,0 +1,16 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px black;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+.body_backgorund{
+    background-image:url(th\ \(1\).jpg);
+    background-position:center;
+    background-size:cover;
+}
+h2, h4{
+    color: lightcoral
+}
